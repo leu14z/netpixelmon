@@ -1,0 +1,18 @@
+{
+  "applicationID": "1265497725995192383",
+  "updateInterval": 30,
+  "presences": [
+    {
+      "details": "Discord: ",
+      "party": "Servidor Online - {online}"
+    },
+    {
+      "details": "Novo evento disponível!",
+      "party": "Uma Mensagem Custom"
+    },
+    {
+      "details": "Jogue no melhor servidor que existe",
+      "party": "Rede Arcane"
+    }
+  ]
+}
