@@ -1,7 +1,6 @@
 {
-  "clientId": 1417688634336874566,   // Your Discord application ID
-  "enabled": true,          // Whether or not the mod is enabled
-  "screenEvent": false,     // Disables the `menu` and `loading` images
-  "clientJoinEvent": false, // Disables the level join events which will prevent the mod from showing the level you are in
-  "logState": false,        // Enables developer logging of the state json being sent to Discord
-}
+  "clientId": 1417688634336874566,   
+  "enabled": true,         
+  "screenEvent": false,    
+  "clientJoinEvent": false, 
+  "logState": false,       
