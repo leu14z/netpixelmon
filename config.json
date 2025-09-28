@@ -1,18 +1,7 @@
 {
-  "applicationID": "1417688634336874566",
-  "updateInterval": 30,
-  "presences": [
-    {
-      "details": "Discord: ",
-      "party": "Servidor Online - {online}"
-    },
-    {
-      "details": "Novo evento disponível!",
-      "party": "Uma Mensagem Custom"
-    },
-    {
-      "details": "Jogue no melhor servidor que existe",
-      "party": "Rede Arcane"
-    }
-  ]
+  "clientId": 1417688634336874566,   // Your Discord application ID
+  "enabled": true,          // Whether or not the mod is enabled
+  "screenEvent": false,     // Disables the `menu` and `loading` images
+  "clientJoinEvent": false, // Disables the level join events which will prevent the mod from showing the level you are in
+  "logState": false,        // Enables developer logging of the state json being sent to Discord
 }
